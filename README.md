@@ -1,5 +1,6 @@
-## Hi there 👋
+## Certifications
 
+[![eJPT]([https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197903756])]
 <!--
 **I9797l/I9797l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
